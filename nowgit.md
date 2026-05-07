@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/Nudge/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/Nudge/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/Nudge/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/Nudge/terms.html | ⏳ Pending (required for subscription) |
+| Landing Page | https://asunnyboy861.github.io/Nudge/ | ✅ Deployed |
+| Support | https://asunnyboy861.github.io/Nudge/support.html | ✅ Deployed |
+| Privacy Policy | https://asunnyboy861.github.io/Nudge/privacy.html | ✅ Deployed |
+| Terms of Use | https://asunnyboy861.github.io/Nudge/terms.html | ✅ Deployed (required for subscription) |
 
 **Note**: Terms of Use required for IAP subscription apps.
 
