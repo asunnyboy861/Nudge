@@ -96,19 +96,19 @@ struct SettingsView: View {
     private var aboutSection: some View {
         Section {
             NavigationLink {
-                PolicyWebView(title: "Privacy Policy", url: "https://zzoutuo.github.io/Nudge/privacy.html")
+                PolicyWebView(title: "Privacy Policy", url: "https://asunnyboy861.github.io/Nudge/privacy.html")
             } label: {
                 Label("Privacy Policy", systemImage: "hand.raised")
             }
 
             NavigationLink {
-                PolicyWebView(title: "Terms of Use", url: "https://zzoutuo.github.io/Nudge/terms.html")
+                PolicyWebView(title: "Terms of Use", url: "https://asunnyboy861.github.io/Nudge/terms.html")
             } label: {
                 Label("Terms of Use", systemImage: "doc.text")
             }
 
             NavigationLink {
-                PolicyWebView(title: "Support", url: "https://zzoutuo.github.io/Nudge/support.html")
+                PolicyWebView(title: "Support", url: "https://asunnyboy861.github.io/Nudge/support.html")
             } label: {
                 Label("Support", systemImage: "questionmark.circle")
             }
