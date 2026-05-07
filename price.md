@@ -8,36 +8,36 @@
 
 ## Subscription Tiers
 
-### 1. Monthly Subscription (Pro)
+### 1. Monthly Subscription
 - **Reference Name**: Nudge Pro Monthly
 - **Product ID**: `com.zzoutuo.Nudge.proMonthly`
 - **Price**: $6.99 per month
 - **Display Name**: Nudge Pro Monthly
-- **Description**: Unlimited clients, AI follow-ups, and more
+- **Description**: Unlimited clients and AI follow-ups
 - **Localization**: English (US)
 
-### 2. Yearly Subscription (Pro)
+### 2. Yearly Subscription
 - **Reference Name**: Nudge Pro Yearly
 - **Product ID**: `com.zzoutuo.Nudge.proYearly`
 - **Price**: $59.99 per year (28% savings vs monthly)
 - **Display Name**: Nudge Pro Yearly
-- **Description**: Best value - unlimited clients and AI features
+- **Description**: Best value for unlimited clients
 - **Localization**: English (US)
 
-### 3. Monthly Subscription (Business)
+### 3. Business Monthly
 - **Reference Name**: Nudge Business Monthly
 - **Product ID**: `com.zzoutuo.Nudge.businessMonthly`
 - **Price**: $14.99 per month
 - **Display Name**: Nudge Business Monthly
-- **Description**: Team features, priority support, and analytics
+- **Description**: Team features and analytics
 - **Localization**: English (US)
 
-### 4. Yearly Subscription (Business)
+### 4. Business Yearly
 - **Reference Name**: Nudge Business Yearly
 - **Product ID**: `com.zzoutuo.Nudge.businessYearly`
 - **Price**: $119.99 per year (33% savings vs monthly)
 - **Display Name**: Nudge Business Yearly
-- **Description**: Best value for teams with full analytics
+- **Description**: Best value for teams
 - **Localization**: English (US)
 
 ## Free Tier (No IAP Required)
@@ -84,12 +84,3 @@
 - [ ] Pricing clearly stated
 - [ ] Free trial terms included (7-day trial on Pro Monthly)
 - [ ] Restore purchases functionality implemented
-
-## Pricing Psychology Applied
-| Strategy | Application |
-|----------|-------------|
-| Anchoring | Show Business $14.99 first, then Pro $6.99 feels cheaper |
-| Loss Aversion | "You're missing 3 follow-ups this week" messaging |
-| Annual Discount | $59.99/year vs $6.99/month = 28% savings |
-| Free Trial | 7-day free trial lowers barrier to try |
-| Freemium | 25 clients free forever enables word-of-mouth |

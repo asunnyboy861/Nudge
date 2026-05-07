@@ -31,5 +31,5 @@ Based on operation guide analysis:
 - Sign in with Apple: Not required
 
 ## Verification
-- Build succeeded after configuration: ⏳ Pending (will verify after code generation)
-- All entitlements correct: ⏳ Pending
+- Build succeeded after configuration: ✅
+- All entitlements correct: ✅
